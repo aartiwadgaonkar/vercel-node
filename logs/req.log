@@ -1,0 +1,16 @@
+28-03-2023 	 13:08:36	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 13:08:35	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 13:08:35	OPTIONS	/employee/stat	http://localhost:3000
+28-03-2023 	 13:08:35	OPTIONS	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:26	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:26	OPTIONS	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:15	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:15	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:15	OPTIONS	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:05	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:05	GET	/employee/stat	http://localhost:3000
+28-03-2023 	 11:59:05	OPTIONS	/employee/stat	http://localhost:3000
+28-03-2023 	 11:58:43	GET	/products	http://localhost:3000
+28-03-2023 	 11:58:43	GET	/products	http://localhost:3000
+24-03-2023 	 16:17:54	GET	/employee/users	http://localhost:3000
+24-03-2023 	 16:17:54	GET	/employee/users	http://localhost:3000
